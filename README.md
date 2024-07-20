@@ -1,6 +1,7 @@
 # Kernel
 
 Minimal starting point for kernel development using x86 assmebly
+[Basic kernel implementation of this paper] (https://www.cs.vu.nl/~herbertb/misc/basickernel.pdf)
 
 ## Usage
 
